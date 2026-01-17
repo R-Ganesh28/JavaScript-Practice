@@ -111,6 +111,6 @@ A personal log of my daily JavaScript coding and concepts I master along the way
 
 ### 📅 Day 10 – Array and Loops
 - What I Learned:
-  - 
+  - Learned how Array works.
 
 
